@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🌟 Ryuucode 🌟
+  # Ryuucode
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7486A&center=true&vCenter=true&width=435&lines=Software+Development+Engineer;Full+Stack+Developer;Bot+Developer)](https://git.io/typing-svg)
   
