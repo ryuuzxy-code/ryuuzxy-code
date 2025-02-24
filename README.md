@@ -8,7 +8,9 @@
 </div>
 
 ## 💫 About Me
+
 Dedicated Software Development Engineer with a passion for creating efficient, scalable solutions. Focused on delivering high-quality code and continuously expanding technical expertise in modern development practices.
+
 
 ## 🛠️ Technical Expertise
 
