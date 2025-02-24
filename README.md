@@ -2,7 +2,7 @@
   
   # Ryuucode
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7486A&center=true&vCenter=true&width=435&lines=Software+Development+Engineer;Full+Stack+Developer;Bot+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7486A&center=true&vCenter=true&width=435&lines=Software+Development+Engineer;Full+Stack+Developer;Bot+Developer;AI+Engineer)](https://git.io/typing-svg)
   
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
