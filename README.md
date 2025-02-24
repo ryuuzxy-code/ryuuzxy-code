@@ -8,11 +8,7 @@
 </div>
 
 ## 💫 About Me
-<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"/>
-
 Dedicated Software Development Engineer with a passion for creating efficient, scalable solutions. Focused on delivering high-quality code and continuously expanding technical expertise in modern development practices.
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🛠️ Technical Expertise
 
