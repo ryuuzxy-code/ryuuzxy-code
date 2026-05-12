@@ -5,17 +5,17 @@
 <div align="center">
 
 <!-- ══════════════ ANIMATED TERMINAL HEADER ══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9D,100:0D1117&height=200&section=header&text=RYUUCODE&fontSize=70&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Bot%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descColor=AAFFDD" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7B2FBE,100:0D1117&height=200&section=header&text=RYUUCODE&fontSize=70&fontColor=BF5FFF&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Bot%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descColor=D4AAFF" />
 
 <!-- ══════════════ TYPING SVG ══════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%24+whoami+--+ryuucode;%3E+Software+Development+Engineer;%3E+WhatsApp+Bot+%26+AI+Developer;%3E+Building+Scalable+REST+APIs;%3E+Turning+Coffee+%E2%86%92+Clean+Code+%F0%9F%92%BB;%3E+Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=800&color=BF5FFF&center=true&vCenter=true&multiline=false&random=false&width=700&height=50&lines=%24+whoami+--+ryuucode;%3E+Software+Development+Engineer;%3E+WhatsApp+Bot+%26+AI+Developer;%3E+Building+Scalable+REST+APIs;%3E+Turning+Coffee+%E2%86%92+Clean+Code+%F0%9F%92%BB;%3E+Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ══════════════ STATUS BADGES ══════════════ -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9D?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-BF5FFF?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/FOCUS-Full_Stack_Dev-00B4D8?style=for-the-badge&logo=target&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/LOCATION-Indonesia-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/AVAILABLE-For_Projects-FFD60A?style=for-the-badge&logo=handshake&logoColor=black&labelColor=0D1117" />
@@ -149,14 +149,14 @@ Git/GitHub   ████████████████████  95%  
 
 <!-- Activity Graph -->
 <a href="https://github.com/ryuuzxy-code">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryuuzxy-code&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&area_color=00FF9D&hide_border=true&custom_title=Contribution%20Graph%20%7C%20Past%2012%20Months&font_color=00FF9D" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryuuzxy-code&bg_color=0D1117&color=BF5FFF&line=BF5FFF&point=FFFFFF&area=true&area_color=7B2FBE&hide_border=true&custom_title=Contribution%20Graph%20%7C%20Past%2012%20Months&font_color=BF5FFF" width="100%" alt="Activity Graph" />
 </a>
 
 <br/>
 
 <!-- Stats Row -->
 <a href="https://github.com/ryuuzxy-code">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryuuzxy-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF&border_radius=10" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryuuzxy-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=0D1117&title_color=BF5FFF&icon_color=BF5FFF&text_color=FFFFFF&border_radius=10" height="195" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/ryuuzxy-code">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuuzxy-code&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&border_radius=10&cache_seconds=86400" height="195" alt="Top Languages" />
@@ -166,7 +166,7 @@ Git/GitHub   ████████████████████  95%  
 
 <!-- Streak Stats -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=ryuuzxy-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=FFD60A&currStreakLabel=00FF9D&sideLabels=AAFFDD&dates=FFFFFF&border_radius=10&date_format=j%20M%5B%20Y%5D" width="60%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ryuuzxy-code&theme=tokyonight&hide_border=true&background=0D1117&stroke=BF5FFF&ring=BF5FFF&fire=FF6BFF&currStreakLabel=BF5FFF&sideLabels=D4AAFF&dates=FFFFFF&border_radius=10&date_format=j%20M%5B%20Y%5D" width="60%" alt="GitHub Streak" />
 </a>
 
 <br/>
@@ -201,7 +201,7 @@ Git/GitHub   ████████████████████  95%  
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryuuzxy-code&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ryuuzxy-code&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophies" />
   </a>
 </div>
 
@@ -301,16 +301,16 @@ $ exit 0
 ```
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=ryuuzxy-code&color=00FF9D&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" />
+<img src="https://komarev.com/ghpvc/?username=ryuuzxy-code&color=BF5FFF&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/ryuuzxy-code?style=for-the-badge&color=00FF9D&labelColor=0D1117&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/ryuuzxy-code?style=for-the-badge&color=BF5FFF&labelColor=0D1117&logo=github&label=FOLLOWERS" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/ryuuzxy-code?affiliations=OWNER&style=for-the-badge&color=FFD60A&labelColor=0D1117&logo=github&label=TOTAL+STARS" />
+<img src="https://img.shields.io/github/stars/ryuuzxy-code?affiliations=OWNER&style=for-the-badge&color=9B59FF&labelColor=0D1117&logo=github&label=TOTAL+STARS" />
 
 <br/>
 
 <!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF9D,100:0D1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7B2FBE,100:0D1117&height=120&section=footer" />
 
 </div>
 
